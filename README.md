@@ -7,4 +7,4 @@ Files can be found inside the folder ["make-us-laugh"](https://github.com/hdunlo
 
 # 2. I Reject Your Reality and Substitute My Own
 
-My submission for this challenge is a Halloween Bag Generator. The idea is that when you are creating goody bags for halloween trick or treaters, it can be hard to work out how many sweets should go in each bag to make it fair, this challenge would aim to solve this problem. The full proposal can be found [here]().
+My submission for this challenge is a Halloween Bag Generator. The idea is that when you are creating goody bags for halloween trick or treaters, it can be hard to work out how many sweets should go in each bag to make it fair, this challenge would aim to solve this problem. The full proposal can be found [here](https://github.com/hdunlop310/jpm-guts-code-olympics-2021/tree/main/i-reject-your-reality).
